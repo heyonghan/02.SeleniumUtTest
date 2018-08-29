@@ -118,3 +118,4 @@ def case01():
 if __name__ == '__main__':
     case01()
     case02()
+    case03()
